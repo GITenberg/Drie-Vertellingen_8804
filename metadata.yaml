@@ -1,0 +1,33 @@
+_repo: Drie-Vertellingen_8804
+alternative_title: Trois Contes. Dutch
+contributor:
+  translator:
+    agent_name: Koenen, Marie
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '4489'
+    url: http://www.gutenberg.org/2009/agents/4489
+creator:
+  author:
+    agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: Translation of Trois Contes
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8804'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Julian, the Hospitaller, Saint -- Fiction'
+- !lcsh 'Herodias -- Fiction'
+- !lcsh 'French fiction -- 19th century'
+title: Drie Vertellingen
+url: http://www.gutenberg.org/ebooks/8804
